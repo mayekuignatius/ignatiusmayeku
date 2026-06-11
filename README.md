@@ -18,7 +18,7 @@ My long-term goal is to grow into a **Application Security Expert** role while e
 - Vulnerability Assessment  
 - Network Security  
 - Linux Administration  
-- SIEM Monitoring (Wazuh)  
+- SIEM Monitoring
 - Threat Detection  
 - Security Reporting  
 - Networking Fundamentals  
