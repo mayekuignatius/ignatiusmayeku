@@ -3,9 +3,10 @@ Offensive Security | Web Application Testing | Security Projects
 
 <img width="446" height="113" alt="image" src="https://github.com/user-attachments/assets/a215d069-1573-4d2d-8950-edcbe1de7f1a" />
 
+<img width="450" height="112" alt="image" src="https://github.com/user-attachments/assets/e429843f-20d4-4cc1-87a2-cbd5626af94c" />
 
 
-<img width="368" height="137" alt="image" src="https://github.com/user-attachments/assets/771f16e7-cd20-4292-9082-adb620cbc675" />
+
 
 
 # Hi, I'm Ignatius Mayeku 👋
