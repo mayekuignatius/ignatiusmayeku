@@ -1,4 +1,4 @@
-# ignatiusmayeku
+# IGNATIUS MAYEKU
 Offensive Security | Web Application Testing | Security Projects
 
 <img width="446" height="113" alt="image" src="https://github.com/user-attachments/assets/a215d069-1573-4d2d-8950-edcbe1de7f1a" />
