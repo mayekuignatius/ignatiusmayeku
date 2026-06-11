@@ -1,12 +1,18 @@
 # ignatiusmayeku
 Offensive Security | Web Application Testing | Security Projects
 
+<img width="446" height="113" alt="image" src="https://github.com/user-attachments/assets/a215d069-1573-4d2d-8950-edcbe1de7f1a" />
+
+
+
+<img width="368" height="137" alt="image" src="https://github.com/user-attachments/assets/771f16e7-cd20-4292-9082-adb620cbc675" />
+
 
 # Hi, I'm Ignatius Mayeku 👋
 
-Cybersecurity enthusiast focused on **Offensive Security, Web Application Security and Security Operations**.  
+I am a Cybersecurity enthusiast focused on **Offensive Security, Web Application Security and Security Operations**. But still interested in other disciplines and may explore them in future.
 
-I enjoy breaking applications in controlled environments, identifying vulnerabilities, and understanding how attackers think so organizations can defend themselves better.
+I enjoy breaking applications in controlled environments, identifying vulnerabilities, and understanding how attackers think and how things just work under the hood, so that organizations can defend themselves better.
 
 My long-term goal is to grow into a **Application Security Expert** role while expanding my skills in web security, offensive Security and red team operations
 
@@ -19,8 +25,7 @@ My long-term goal is to grow into a **Application Security Expert** role while e
 - Network Security  
 - Linux Administration  
 - SIEM Monitoring
-- Threat Detection  
-- Security Reporting  
+- Threat Detection    
 - Networking Fundamentals  
 - Technical Troubleshooting  
 
@@ -40,17 +45,14 @@ My long-term goal is to grow into a **Application Security Expert** role while e
 
 ---
 
-## Projects
+## Projects (Projects will be updated on separate individual repositories)
 
-### Web Application Penetration Test – Account Takeover via Chained Vulnerabilities (2026)
-Performed manual web application security testing and identified weaknesses in authentication and authorization workflows. Chained multiple vulnerabilities to achieve unauthorized account access and documented remediation recommendations.
 
 ### Independent Web Application Security Practice (2025–Present)
 Actively testing web applications for OWASP Top 10 vulnerabilities using Burp Suite, manual testing techniques, and vulnerable lab environments. Focus areas include authentication flaws, session management issues, and access control weaknesses.
 
 ### Cloud Pentesting, Security Monitoring & Threat Hunting Lab (2024)
 Deployed an OwnCloud environment in a virtual lab and conducted ARP spoofing attacks to intercept authentication traffic. Captured credentials with wireshark and demonstrated session hijacking risks.
-
 Also configured wazuh siem and Xdr across multiple endpoints for threat detection, created brute-force detection rules, investigated suspicious processes, and improved monitoring visibility through dashboards and log analysis.
 
 ### TryHackMe Offensive Security Labs
@@ -78,10 +80,10 @@ Documented attack paths, privilege escalation vectors, and remediation insights 
 
 ## Certifications
 
-- CompTIA PenTest+ (Tryhackme)  
+- TCM Security – Practical Bug Bounty
+- Offensive pentesting - TryHackMe 
 - CyberShujaa Security Analyst Certification  
 - CIPT Data Protection Certification  
-- TCM Security – Practical Bug Bounty  
 
 ---
 
@@ -111,6 +113,6 @@ Documented attack paths, privilege escalation vectors, and remediation insights 
 
 ## Connect With Me
 
-📧 mayekuignatius@gmail.com  
+Email 📧: mayekuignatius@gmail.com  
 
-🔗 LinkedIn: www.linkedin.com/in/ignatiusmayeku
+🔗 LinkedIn: www.linkedin.com/in/ignatius-mayeku-938b36267/
